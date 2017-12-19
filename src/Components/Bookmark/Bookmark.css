@@ -1,0 +1,13 @@
+li {
+    text-transform: lowercase;
+    list-style-type: none;
+}
+a {
+    margin-left: 5px;
+    color: #212121;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #689F38;
+}
